@@ -1,0 +1,9 @@
+CHECKOUT - USED TO SWITCH BETWEEN VERSION, BRANCHES, TAGS
+
+undo - 
+
+checkout/restore - undo unstaged change, commit level as well as file level, public and private branch
+
+revert - safe undo commited change, commit level, public as well  as private branches
+
+reset - safe undo commited change, file level as well as commit level, private branches
